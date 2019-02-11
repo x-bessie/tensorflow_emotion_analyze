@@ -54,6 +54,10 @@ Word2vec
 
 模型参数：window=5 min_count=5 size=64
 
+下载地址：
+链接：https://pan.baidu.com/s/1L5c_LrIi89dOA9HFxP2zjw 
+提取码：20pj 
+
 
 项目功能
 
